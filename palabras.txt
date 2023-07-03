@@ -1,0 +1,5 @@
+leon
+leopardo
+foca
+avestruz
+toro
